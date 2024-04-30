@@ -1,0 +1,2 @@
+# BasicBot
+idk lol
